@@ -15,7 +15,7 @@
     "@angular/cli": "^13.1.2",
     "@angular/common": "~12.2.0",
     "@angular/compiler": "~12.2.0",
-    "@angular/compiler-cli": "^13.1.2",
+    "@angular/compiler-cli": "^12.2.0",
     "@angular/core": "~12.2.0",
     "@angular/forms": "~12.2.0",
     "@angular/platform-browser": "~12.2.0",
@@ -31,7 +31,7 @@
   "devDependencies": {
     "@angular-devkit/build-angular": "^13.1.2",
     "@angular/cli": "^13.1.2",
-    "@angular/compiler-cli": "~13.1.0",
+    "@angular/compiler-cli": "~12.2.0",
     "@types/jasmine": "~3.8.0",
     "@types/node": "^12.11.1",
     "jasmine-core": "~3.8.0",
